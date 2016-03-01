@@ -1,0 +1,144 @@
+body{
+	background-image:url(img/back.gif);
+}
+
+.text{
+	font:17px Cambria;
+	padding: 0px;
+	padding-left:15px;
+	padding-right:15px;
+	text-align:justify;
+	text-indent:20px;
+}
+
+.text2{
+	font:14px Cambria;
+}
+
+.text3{
+	font: bold 17px Cambria;
+	padding: 0px;
+	padding-left:15px;
+	padding-right:15px;
+	text-align:center;
+	text-decoration:underline;
+	color: #600;
+}
+
+.table{
+	background-image: url(img/background.gif);
+	background-size: auto;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.form{
+	background-image:url(img/back2.jpg);
+	margin:10px;
+	margin-left:0;
+	padding-left:15px;
+	padding-top:10px;
+	border:2px solid #300;
+}
+
+.label{
+	background-image:url(img/back2.jpg);
+	padding:5px;
+	padding-left:20px;
+	text-align:left;
+	border:1px solid #300;
+	margin-right:10px;
+	margin-top:20px;
+}
+	
+.floatleft{
+	float:left;
+	padding-right:5px
+}
+
+.ddheader{
+	width:202px;
+	border:2px solid #300;
+	padding:2px;
+	font-weight:bold;
+	margin-top:5px;
+	cursor:pointer;
+}
+.ddheader:hover {background:#FFC}
+
+.a{
+	color: #000;
+	text-decoration: none;
+	display: block;
+}
+
+.li{
+	background-image: url(img/1.gif);
+	background-origin: padding-box;
+	background-position: 0px 3px;
+	background-repeat: no-repeat;
+	background-size: auto;
+	padding-left: 25px;
+	text-decoration: none;
+	color: #600;
+}
+
+.li2{
+	color: #600;
+}
+
+.li4{
+	color: #600;
+	font:13px Cambria;
+}
+
+.korzina{
+	margin-top:10px;
+	border: 2px  solid #300;
+	padding:10px;
+	text-align:center;
+	background-image:url(img/back2.jpg);	
+}
+
+.find{
+	margin-top:10px;
+	background-image:url(img/back2.jpg);
+	padding:10px;
+	border:2px solid #300;
+}
+
+.img{
+	border: 1px solid #300;
+	margin:5px;
+}
+
+.button{
+	background-color:#FFF;
+	border:1px solid #300;
+}
+
+.item{
+	background-image:url(img/back2.jpg);
+        float: left;
+	height:220px;
+        width: 370px;
+        margin: 5px;
+        padding: 5px;
+	padding-right:10px;
+        border:1px solid #300;
+}
+
+.dimg { 
+	float: left;
+	margin:10px;
+	border:1px solid #300;
+}
+
+.zakaz{
+	background:#EEE;
+	margin:15px;
+	margin-left:5px;
+	border: 1px solid #300;
+	padding-left:20px;
+	font: 16px Cambria;
+}
