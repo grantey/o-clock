@@ -1,6 +1,6 @@
 <?php session_start();?>
 <?php
-echo 'site under construction';
+echo 'site under construction123';
 
             $kor=$_GET['kor'];
             if ($kor!="") {
